@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803094625449",
+    "project_id": "promanager-b9c1a",
+    "storage_bucket": "promanager-b9c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803094625449:android:992fd16b3efb333d47bdb8",
+        "android_client_info": {
+          "package_name": "com.cdp.pro_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803094625449-gi8tfgfajjcm5jqohs7tl10ga43k6pkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_VoZXgPGu0uluaYkZubJFvEiT5tqI8kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803094625449-gi8tfgfajjcm5jqohs7tl10ga43k6pkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
