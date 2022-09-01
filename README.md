@@ -14,11 +14,11 @@ Used Technologies and Tools - Andoid Studio with Kotlin Language, Firebase Fores
 Main fuctionalities - User Signup/Sign in
                       Create Boards(Projects)
                       Create Lists
-                      Add jobs
+                      Add cards
                       Add Members to the projects
                       Remove members from projects
                       Customize User Account
-                      Add deadlines for jobs.
+                      Add Deadlines for jobs.
                       
 User Mannual - https://docs.google.com/presentation/d/1u5sH0ENP2rdHjOXK4QzK0gFfEk1u9cPz/edit?usp=sharing&ouid=106607884935596855838&rtpof=true&sd=true
 
